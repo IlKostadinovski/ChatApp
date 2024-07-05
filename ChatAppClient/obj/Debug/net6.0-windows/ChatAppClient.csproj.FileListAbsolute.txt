@@ -1,0 +1,42 @@
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.exe
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.deps.json
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.runtimeconfig.json
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.pdb
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient_MarkupCompile.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient_MarkupCompile.lref
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.g.resources
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.AssemblyInfoInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.AssemblyInfo.cs
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\refint\ChatAppClient.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.pdb
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.genruntimeconfig.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ref\ChatAppClient.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.exe
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.deps.json
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.runtimeconfig.json
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\bin\Debug\net6.0-windows\ChatAppClient.pdb
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient_MarkupCompile.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient_MarkupCompile.lref
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.g.resources
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.AssemblyInfoInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.AssemblyInfo.cs
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\refint\ChatAppClient.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.pdb
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ChatAppClient.genruntimeconfig.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppClient\obj\Debug\net6.0-windows\ref\ChatAppClient.dll

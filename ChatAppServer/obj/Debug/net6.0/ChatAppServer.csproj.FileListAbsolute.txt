@@ -1,0 +1,68 @@
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.exe
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.deps.json
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.runtimeconfig.json
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.pdb
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.csproj.AssemblyReference.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.AssemblyInfoInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.AssemblyInfo.cs
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.csproj.CoreCompileInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\refint\ChatAppServer.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.pdb
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.genruntimeconfig.cache
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ref\ChatAppServer.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\DataBase\serverDatabase.db
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.dll.config
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\Dapper.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ilkos\OneDrive\Desktop\Semester 8\Senior Project\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.csproj.CopyComplete
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\DataBase\serverDatabase.db
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.exe
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.dll.config
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.deps.json
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.runtimeconfig.json
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\ChatAppServer.pdb
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\Dapper.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.csproj.AssemblyReference.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.AssemblyInfoInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.AssemblyInfo.cs
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.csproj.CoreCompileInputs.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.csproj.CopyComplete
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\refint\ChatAppServer.dll
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.pdb
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ChatAppServer.genruntimeconfig.cache
+C:\Users\ilkos\OneDrive\Desktop\University\ChatApp\ChatApp\ChatAppServer\obj\Debug\net6.0\ref\ChatAppServer.dll
