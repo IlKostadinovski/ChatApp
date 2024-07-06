@@ -16,8 +16,9 @@ Real-time Messaging: Messages are sent and received in real-time using TCP socke
 User Presence: Tracks and broadcasts the online/offline status of users.
 Image Sending: Supports sending large images between users.
 Emoji Sending: Allows users to send emojis.
-3. Technologies Used
+3. Technologies Used:
 C#: The primary programming language used.
+XAML is used for the interface.
 TCP Sockets: For real-time communication.
 SQLite: For storing user data.
 Dapper: For database operations.
