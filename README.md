@@ -21,3 +21,4 @@ C#: The primary programming language used.
 TCP Sockets: For real-time communication.
 SQLite: For storing user data.
 Dapper: For database operations.
+ 
